@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Drag-and-Drop Todo List
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A React-based drag-and-drop Todo List application that lets you organize tasks across different stages using react-beautiful-dnd.
+
+# Features
+Task Management: Add and move tasks between stages, including To Do, In Progress, Review, Done, and Closed.
+Drag-and-Drop: Simple and intuitive task reordering using react-beautiful-dnd.
+Responsive UI: A clean, responsive layout for organizing tasks visually.
+# Technologies
+React: A JavaScript library for building user interfaces.
+react-beautiful-dnd: Library to implement drag-and-drop functionality.
+
+# deployed link
+https://continuent-curriculum-deepak-wayzodes-projects.vercel.app/
